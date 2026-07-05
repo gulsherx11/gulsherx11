@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.jpg" width="100%" alt="banner">
+  <img src="./assets/banner2.jpg" width="100%" alt="banner">
 </p>
 
-*Somewhere between art and engineering.*
+                                                        *Somewhere between art and engineering.*
 
 ---
 
