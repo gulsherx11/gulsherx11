@@ -1,154 +1,118 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=180&section=header&text=GUL%20SHER&fontSize=52&fontColor=b19cd9&fontAlignY=40&desc=software%20engineer%20%C2%B7%20builds%20things%20from%20scratch&descAlignY=60&descColor=6b6b76&animation=fadeIn" />
+```text
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣦
+⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⠟⠉⠀⠀⠈⠻⣷
+⠀⠀⠀⠀⠀⠀⠀⢀⣿⠃⠀⢀⣤⣤⡀⠀⢻
+⠀⠀⠀⠀⠀⠀⠀⣸⡏⠀⢠⣿⣿⣿⣷⠀⢸
+⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠈⠻⠿⠟⠀⠀⣿
+⠀⠀⠀⠀⠀⠀⠀⢿⣆⠀⠀⠀⠀⠀⠀⣰⡿
+⠀⠀⠀⠀⠀⠀⠀⠀⠻⣷⣤⣀⣀⣤⣾⠟
+```
 
-<br>
+# gulsherx11
 
-<a href="https://gulsher-portfolio.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=B19CD9&center=true&vCenter=true&width=560&lines=full-stack+dev+%C2%B7+NUTech;writes+every+line+by+hand%2C+no+scaffolding;currently+debugging+something+at+2am;probably+thinking+about+a+black+cat" />
+### *the black cat that occasionally writes code.*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=3500&color=E6E6E6&center=true&vCenter=true&width=520&lines=building+things.;breaking+things.;learning+things.;repeating." />
+
+</div>
+
+---
+
+## /about
+
+```txt
+name      :: Gulsher
+location  :: Pakistan
+status    :: online
+editor    :: VS Code
+theme     :: dark
+energy    :: ☕ -> code
+```
+
+> Curious by default.  
+> I enjoy building clean interfaces, experimenting with backend systems,
+> automating repetitive work, and learning whatever catches my attention next.
+
+---
+
+## /stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,nodejs,react,nextjs,express,mongodb,mysql,postgres,linux,docker,git,bash,vscode&theme=dark" />
+
+</p>
+
+---
+
+## /currently
+
+```txt
+▸ building personal projects
+▸ exploring system design
+▸ improving backend architecture
+▸ making code a little cleaner every day
+```
+
+---
+
+## /github
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gulsherx11&show_icons=true&hide_border=true&bg_color=00000000&title_color=EDEDED&text_color=BDBDBD&icon_color=FFFFFF&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherx11&layout=compact&hide_border=true&bg_color=00000000&title_color=EDEDED&text_color=BDBDBD"/>
+
+</div>
+
+---
+
+## /activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulsherx11&theme=github-compact&hide_border=true&bg_color=00000000&color=E6E6E6&line=7A7A7A&point=FFFFFF"/>
+
+</div>
+
+---
+
+## /contributions
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gulsherx11&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+
+</div>
+
+---
+
+## /connect
+
+<div align="center">
+
+<a href="https://github.com/gulsherx11">
+<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+---
 
-<table width="100%" border="0">
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
-### about
+```text
+         /\_/\\
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m)
 
-I'm Gul — a software engineering student at NUTech who'd rather write the code myself than let a generator do it for me. I like understanding every layer of what I ship: backend, frontend, infra, deployment, all of it.
-
-Most of what's below started as "how hard could this be" and ended a few hundred commits later.
-
-**currently** — polishing side projects, hunting bugs, occasionally losing to a race condition.
-**always** — full-stack, AI-assisted tooling, developer utilities.
-
-</td>
-<td width="40%" valign="top" align="center">
-
-```
-        /\_/\
-       ( o.o )
-        > ^ <
-      ───────────
-      night mode: on
-      coffee: required
-      bugs fixed today: 3*
-
-      *may be inaccurate
+the void is quiet.
+until the next commit.
 ```
 
-</td>
-</tr>
-</table>
-
-<br>
-
-### stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres,react,js,docker,githubactions,html,css,git&theme=dark" />
-
 </div>
-
-<div align="center">
-<sub>python · fastapi · sqlalchemy · postgresql · react · javascript · docker · github actions · railway</sub>
-</div>
-
-<br>
-
-──── · ────
-
-### things i've actually shipped
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[Meow-Type](https://github.com/gulsherx11/Meow-Type)**
-<br>A cat-themed retro typing test — FastAPI + PostgreSQL backend, hand-drawn pixel-art SVG cats, AI-generated sentences via Groq, containerized and shipped through GitHub Actions to Railway. Full lifecycle, start to deployed.
-<br><sub>javascript · fastapi · docker</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[agribot-pakistan](https://github.com/gulsherx11/agribot-pakistan)**
-<br>A multi-agent AI advisory system giving Pakistani farmers agricultural intelligence — several agents coordinating instead of one model doing everything.
-<br><sub>typescript</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[AI-Job-Hunter](https://github.com/gulsherx11/AI-Job-Hunter)**
-<br>An assistant that rewrites resumes, drafts cover letters, researches target companies, and runs mock interviews.
-<br><sub>javascript</sub>
-
-</td>
-<td width="50%" valign="top">
-
-**[Atlas-ai](https://github.com/gulsherx11/Atlas-ai)**
-<br>A learning companion pairing a FastAPI backend with a Chrome extension, built to change how you interact with what you're reading online.
-<br><sub>javascript · fastapi</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[Silent-Assassin](https://github.com/gulsherx11/Silent-Assassin)**
-<br>A clipboard assistant with a layered fallback chain — OpenRouter, then Gemini, then Groq — so it keeps working when one provider doesn't.
-<br><sub>python</sub>
-
-</td>
-<td width="50%" valign="top">
-
-<br>
-<sub>more on the way — this list gets rewritten, not appended to.</sub>
-<br><br>
-
-</td>
-</tr>
-</table>
-
-──── · ────
-
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gulsherx11&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=b19cd9&icon_color=b19cd9&text_color=8b8b96" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherx11&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=b19cd9&text_color=8b8b96" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gulsherx11&theme=midnight-purple&hide_border=true&background=0d0d0d&stroke=0d0d0d&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9" />
-
-</div>
-
-<br>
-
-──── · ────
-
-<div align="center">
-
-<sub>reach me</sub>
-<br><br>
-
-<a href="mailto:sherg8662@gmail.com">mail</a>
-&nbsp;·&nbsp;
-<a href="https://gulsher-portfolio.netlify.app/">portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/gulsherx11?tab=repositories">repositories</a>
-
-<br><br>
-
-<sub>Rawalpindi, Pakistan</sub>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer" />
