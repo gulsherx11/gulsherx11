@@ -1,97 +1,164 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Banner" width="100%">
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1f1f1f&height=180&section=header&text=GULSHER&fontSize=48&fontColor=ffffff" />
+<h1 align="center">gul sher</h1>
 
-</div>
+<p align="center">
+Software Engineering Student • Full-Stack Developer • AI Builder
+</p>
 
 ---
 
-## ABOUT
+## About
 
-<div align="center">
+I'm a Software Engineering student from Pakistan passionate about building software that solves real-world problems.
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-000000?style=for-the-badge&labelColor=000000&color=ffffff" />
+I enjoy taking ideas from concept to deployment—designing modern frontends, building scalable backends, integrating AI, and automating deployments with DevOps practices.
 
-</div>
+Currently exploring cloud infrastructure, containerization, and production-ready system design.
 
-<br/>
+---
+
+## Tech Stack
 
 ```text
-NAME        GULSHER
-ROLE        FULL STACK DEVELOPER
-STACK       MERN • TYPESCRIPT • C++
-FOCUS       WEB SYSTEMS • BACKEND ARCHITECTURE
-PLATFORM    WINDOWS
-EDITOR      VS CODE
-STYLE       PIXEL / DARK MINIMAL
-STATUS      ACTIVE
+Frontend
+├── React
+├── Next.js
+├── JavaScript
+└── Tailwind CSS
+
+Backend
+├── Node.js
+├── Express.js
+├── FastAPI
+├── Python
+└── REST APIs
+
+Databases
+├── PostgreSQL
+└── MySQL
+
+AI
+├── LangGraph
+├── LangChain
+├── Gemini API
+├── Groq
+└── Scikit-Learn
+
+DevOps
+├── Docker
+├── GitHub Actions
+├── Railway
+├── Vercel
+├── Linux
+└── Git
 ```
 
 ---
 
-## SKILLS
+## Featured Projects
 
-<div align="center">
+### AI Job Hunter
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,nodejs,react,nextjs,express,mongodb,postgres,docker,git,github,vscode&theme=dark"/>
+Multi-agent AI platform that automates job searching, resume tailoring, and interview preparation using LangGraph.
 
-</div>
-
----
-
-## PROJECTS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/WORK-PROJECTS-000000?style=for-the-badge&labelColor=000000&color=ffffff" />
-
-</div>
+**Stack**
 
 ```text
-Project A   scalable backend systems
-Project B   full stack dashboard apps
-Project C   automation + tooling utilities
+React • FastAPI • LangGraph • Groq • Railway • GitHub Actions
 ```
 
 ---
 
-## GITHUB METRICS
+### AgriBot Pakistan
 
-<div align="center">
+AI-powered agricultural assistant providing disease detection and crop recommendations with bilingual support.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gulsherx11&show_icons=false&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherx11&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cccccc"/>
-
-</div>
-
----
-
-## ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulsherx11&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=777777&point=ffffff"/>
-
-</div>
-
----
-
-## FOCUS
+**Stack**
 
 ```text
-BUILDING    scalable systems
-IMPROVING   backend architecture
-LEARNING    system design
-SHIPPING    real projects
+Next.js • FastAPI • EfficientNet • LangGraph • PostgreSQL
 ```
 
 ---
 
-## FOOTER
+### Atlas AI
 
-<div align="center">
+Chrome Extension for summarizing websites and PDFs with AI-powered memory and smart suggestions.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=70&section=footer&text=BUILD%20•%20SHIP%20•%20REPEAT&fontSize=13&fontColor=ffffff" />
+**Stack**
 
-</div>
+```text
+JavaScript • FastAPI • Gemini API
+```
+
+---
+
+### Meow Type
+
+A real-time typing speed application featuring persistent score tracking and automated deployment.
+
+**Stack**
+
+```text
+React • Node.js • PostgreSQL • Docker • CI/CD
+```
+
+---
+
+## Current Focus
+
+```text
+> Learning Kubernetes
+
+> Exploring AWS Cloud
+
+> Improving DevOps workflows
+
+> Building production-ready AI applications
+```
+
+---
+
+## Philosophy
+
+```text
+Build.
+
+Ship.
+
+Break.
+
+Improve.
+
+Repeat.
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gulsherx11&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherx11&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+```text
+GitHub    github.com/gulsherx11
+
+LinkedIn  linkedin.com/in/mgulsher
+
+Email     gulshersheru38@gmail.com
+```
+
+---
+
+<p align="center">
+    <i>"Write code that you'd enjoy reading a year from now."</i>
+</p>
