@@ -1,83 +1,41 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Banner" width="100%">
+  <img src="./assets/banner.jpg" width="100%" alt="banner">
 </p>
 
-<h1 align="center">gul sher</h1>
+# M. Gul Sher
 
-<p align="center">
-Software Engineering Student • Full Stack Developer • AI Engineer
-</p>
-
----
-
-## About
-
-I'm a Software Engineering student passionate about building scalable web applications, AI-powered tools, and cloud-native systems.
-
-I enjoy taking products from idea to deployment by combining modern frontend development, backend engineering, AI integration, and DevOps.
-
-Outside of coding, I'm always exploring new technologies, refining my workflow, and creating things that solve real-world problems.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cpp,bash" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</p>
-
-### DevOps & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux,aws,vercel" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
+*Building software that solves real-world problems.*
 
 ---
 
 ## Connect
 
-<p align="left">
-<a href="mailto:gulshersheru38@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+```text
+GitHub     github.com/gulsherx11
+LinkedIn   linkedin.com/in/mgulsher
+Email      gulshersheru38@gmail.com
+```
 
-<a href="https://github.com/gulsherx11">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
+---
 
-<a href="https://linkedin.com/in/mgulsher">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+## Skills & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions,linux,aws,vscode,postman" />
+</p>
+
+### AI
+
+`LangGraph` • `LangChain` • `Gemini API` • `Groq`
+
+---
+
+Thanks for stopping by.
