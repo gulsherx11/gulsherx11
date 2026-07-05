@@ -1,44 +1,33 @@
 <div align="center">
 
-<br/>
-
-# GULSHER
-
-### Full Stack Developer
-
-Building scalable web applications with clean architecture, performance-first mindset, and minimal design principles.
+# 🟦🟪🟦 GULSHER 🟦🟪🟦
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-000000?style=for-the-badge&labelColor=000000&color=ffffff" />
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;BUILDING+PIXEL-PERFECT+SYSTEMS;CLEAN+CODE+%7C+MODERN+WEB+%7C+SCALABLE+APPS" />
 
-<br/><br/>
+<br/>
 
 </div>
 
 ---
 
-## Overview
-
-<div align="center">
+## ░ PROFILE
 
 ```text
-Name        GULSHER
-Role        Full Stack Developer
-Focus       Scalable Web Applications
-Stack       MERN • TypeScript • C++
-Platform    Windows
-Editor      VS Code
+NAME        GULSHER
+ROLE        FULL STACK DEVELOPER
+FOCUS       WEB • BACKEND • SYSTEM DESIGN
+STACK       MERN • TYPESCRIPT • C++
+PLATFORM    WINDOWS
+EDITOR      VS CODE
+STYLE       PIXEL / MINIMAL / DARK
+STATUS      BUILDING WORLDS IN CODE
 ```
-
-</div>
 
 ---
 
-<br/>
-
-## Tech Stack
+## ░ TECH ARCADE
 
 <div align="center">
 
@@ -48,86 +37,61 @@ Editor      VS Code
 
 ---
 
-<br/>
-
-## Philosophy
+## ░ STATS HUD
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Architecture-Clean-000000?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/Code-Minimal-111111?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/Systems-Scalable-1a1a1a?style=flat-square&labelColor=000000" />
-<img src="https://img.shields.io/badge/Performance-First-222222?style=flat-square&labelColor=000000" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gulsherx11&show_icons=false&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cfcfcf"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-I focus on building systems that are:
-
-clean in structure  
-predictable in behavior  
-easy to scale  
-simple to maintain  
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherx11&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=cfcfcf"/>
 
 </div>
 
 ---
 
-<br/>
-
-## GitHub Analytics
+## ░ XP TRACKER
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gulsherx11&show_icons=false&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d0d0d0"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsherx11&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d0d0d0"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulsherx11&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=888888&point=ffffff"/>
 
 </div>
 
 ---
 
-<br/>
+## ░ CURRENT QUESTS
 
-## Activity
+```text
+[■] BUILDING FULL STACK APPS
+[■] IMPROVING BACKEND SYSTEMS
+[■] LEARNING SCALABLE ARCHITECTURE
+[■] SHIPPING SIDE PROJECTS
+```
+
+---
+
+## ░ PIXEL CORE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulsherx11&theme=github-dark&hide_border=true&bg_color=00000000&color=ffffff&line=9a9a9a&point=ffffff"/>
+```
+      ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+     █  BUILD  ░  BREAK  ░ FIX █
+     █  CODE   ░  LEARN  ░ REPEAT █
+      ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+         ░ PIXEL DEV MODE ░
+```
 
 </div>
 
 ---
 
-<br/>
-
-## Current Focus
+## ░ STATUS
 
 <div align="center">
 
-- Scalable full stack applications  
-- Backend architecture design  
-- System design fundamentals  
-- Clean code practices  
-- Performance optimization  
-
-</div>
-
----
-
-<br/>
-
-## Closing
-
-<div align="center">
-
-<br/>
-
-### Simplicity is not minimal effort — it is refined effort.
-
-<br/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&labelColor=000000&color=ffffff" />
+<img src="https://img.shields.io/badge/MODE-BUILDING-111111?style=for-the-badge&labelColor=000000&color=ffffff" />
 
 </div>
