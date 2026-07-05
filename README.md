@@ -2,9 +2,7 @@
   <img src="./assets/banner.jpg" width="100%" alt="banner">
 </p>
 
-# M. Gul Sher
-
-*Building software that solves real-world problems.*
+*Somewhere between art and engineering.*
 
 ---
 
