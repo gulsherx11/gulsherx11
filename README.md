@@ -32,10 +32,6 @@ Email      gulshersheru38@gmail.com
   <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,githubactions,linux,aws,vscode,postman" />
 </p>
 
-### AI
-
-`LangGraph` • `LangChain` • `Gemini API` • `Groq`
-
 ---
 
 Thanks for stopping by.
